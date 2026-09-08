@@ -1,0 +1,26 @@
+# TnT Ventures
+
+> TnT Ventures is Robert Kunze's independent angel investment vehicle, operated by TnT Beteiligungs GmbH in Munich, Germany. It backs early-stage founders in supply-chain technology and selected adjacent opportunities.
+
+## Focus
+
+- Supply-chain technology: software, data and automation that improve the flow of goods, information and decisions.
+- Selected adjacencies: industrial, deep-tech and infrastructure opportunities where relevant operating experience creates an advantage.
+- Early partnership: primarily pre-seed and seed investments with a long-term, operator-led perspective.
+
+## Selected portfolio
+
+- Barkawi Technologies: https://www.barkawi.com/
+- Starflight Dynamics: https://www.starflight-dynamics.com/
+
+## Robert Kunze
+
+- Role: Angel investor and company builder
+- LinkedIn: https://www.linkedin.com/in/robert-kunze-53a3495a
+- Email: rk@tnt-ventures.de
+
+## Canonical pages
+
+- Website: https://tnt-ventures.de/
+- Legal notice: https://tnt-ventures.de/impressum.html
+- Privacy notice: https://tnt-ventures.de/datenschutz.html

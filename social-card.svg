@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f4f0e8"/>
+  <g fill="none" stroke="#b8ad9d" stroke-width="2" opacity="0.65">
+    <path d="M735 555 840 430 955 500 1090 355 1185 420M760 305 890 190 1015 270 1140 125M840 430 890 190 1090 355M760 305 955 500 1140 125M1015 270 1185 420"/>
+  </g>
+  <g fill="#a99d8b">
+    <circle cx="735" cy="555" r="6"/><circle cx="840" cy="430" r="6"/><circle cx="955" cy="500" r="6"/><circle cx="1090" cy="355" r="6"/><circle cx="1185" cy="420" r="6"/><circle cx="760" cy="305" r="6"/><circle cx="890" cy="190" r="6"/><circle cx="1015" cy="270" r="6"/><circle cx="1140" cy="125" r="6"/>
+  </g>
+  <text x="72" y="95" fill="#141414" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">TnT Ventures</text>
+  <text x="72" y="240" fill="#141414" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="400">Backing the systems</text>
+  <text x="72" y="320" fill="#141414" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="400">behind tomorrow's</text>
+  <text x="72" y="400" fill="#141414" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="400">supply chains.</text>
+  <text x="72" y="544" fill="#817a6e" font-family="Arial, Helvetica, sans-serif" font-size="25">Independent angel investments · Munich</text>
+  <rect x="72" y="575" width="110" height="6" rx="3" fill="#2457ff"/>
+</svg>
